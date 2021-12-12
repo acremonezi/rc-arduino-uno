@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <blink.h>
 
 void blink() {
 
